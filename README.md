@@ -1,8 +1,6 @@
 # My anime list
 
 <h4>Here is the list of my completed / ongoing animes and the anime movies</h4>
-<br>
-## Anime list
 <ol>	
 	<li><a href = "https://myanimelist.net/anime/25013/Akatsuki_no_Yona?q=akatsuki">Akatsuki no Yona</a></li>
 	<li><a href = "https://myanimelist.net/anime/22199/Akame_ga_Kill">Akame ga Kill!</a></li>
