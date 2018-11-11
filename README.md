@@ -47,6 +47,5 @@
 	<li><a href = "https://myanimelist.net/anime/28851/Koe_no_Katachi?q=koe">Koe no Katachi</a></li>
 	<li><a href = "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi?q=spirite">Sen to Chihiro no Kamikakushi</a></li>
 	<li><a href = "https://myanimelist.net/anime/16870/The_Last__Naruto_the_Movie?q=the%20las">The Last: Naruto the Movie</a></li>
-	<li><a href = "https://myanimelist.net/anime/34572/Black_Clover">Black Clover</a></li>
 	<li><a href = "https://myanimelist.net/manga/3282/Hotarubi_no_Mori_e?q=hota">Hotarubi no Mori e</a></li>
 <ol>
