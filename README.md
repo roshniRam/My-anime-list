@@ -20,7 +20,9 @@
 	<li><a href = "https://myanimelist.net/anime/24765/Gakkougurashi">Gakkou Gurashi!</a></li>
 	<li><a href = "https://myanimelist.net/anime/17895/Golden_Time">Golden Time</a></li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
-	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>
+	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>	
+	<li><a href = "https://myanimelist.net/anime/11617/High_School_DxD">High School DXD</a></li>
+	<li><a href = "https://myanimelist.net/anime/28825/Himouto_Umaru-chan">Himouto! Umaru-chan</a></li>
 	<li><a href = "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama?q=kaichou">Kaichou wa Maid-sama!</a></li>
 	<li><a href = "https://myanimelist.net/anime/36754/Kakuriyo_no_Yadomeshi?q=kakuriyo">Kakuriyo no Yadomeshi</a></li>
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
