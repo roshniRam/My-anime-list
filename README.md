@@ -26,6 +26,7 @@
 	<li><a href = "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama?q=kaichou">Kaichou wa Maid-sama!</a></li>
 	<li><a href = "https://myanimelist.net/anime/36754/Kakuriyo_no_Yadomeshi?q=kakuriyo">Kakuriyo no Yadomeshi</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby?q=kill%20me%20baby">Kill Me Baby</a></li>
+	<li><a href = "https://myanimelist.net/anime/34984/Koi_wa_Ameagari_no_You_ni?q=koi%20wa">Koi wa Ameagari no You ni</a></li>
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
 	<li><a href = "https://myanimelist.net/anime/1735/Naruto__Shippuuden">Naruto Shippuden</a></li>
 	<li><a href = "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai">Nanatsu no Taizai</a></li>
