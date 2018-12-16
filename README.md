@@ -2,6 +2,7 @@
 
 <h4>Here is the list of my completed / ongoing animes and the anime movies</h4>
 <ol>	
+	<li><a href = "https://myanimelist.net/anime/36793/3D_Kanojo__Real_Girl?q=3d%20kanojo">3D Kanojo</a></li>
 	<li><a href = "https://myanimelist.net/anime/25013/Akatsuki_no_Yona?q=akatsuki">Akatsuki no Yona</a></li>
 	<li><a href = "https://myanimelist.net/anime/22199/Akame_ga_Kill">Akame ga Kill!</a></li>
 	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
