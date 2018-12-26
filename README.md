@@ -37,6 +37,7 @@
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/30015/ReLIFE">ReLIFE</a></li>
 	<li><a href = "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso">Shigatsu wa Kimi no Uso</a></li>
+	<li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin?q=attack%20">Shingeki no Kyojin</a></li>
 	<li><a href = "https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Food Wars!: Shokugeki no Soma</a></li>
 	<li><a href = "https://myanimelist.net/anime/36470/Tada-kun_wa_Koi_wo_Shinai?q=tada">Tada-kun wa Koi wo Shinai</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
