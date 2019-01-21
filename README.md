@@ -15,6 +15,7 @@
 	<li><a href = "https://myanimelist.net/anime/4181/Clannad__After_Story?q=clannad">Clannad After Story</a></li>
     <li><a href = "https://myanimelist.net/anime/11843/Danshi_Koukousei_no_Nichijou?q=danshi%20wa%20ko">Danshi Koukousei no Nichijou</a></li>
 	<li><a href = "https://myanimelist.net/anime/1535/Death_Note">Death Note</a></li>
+	<li><a href = "https://myanimelist.net/anime/37520/Dororo?q=dororo">Dororo</a></li>
 	<li><a href = "https://myanimelist.net/anime/6702/Fairy_Tail">Fairy Tail</a></li>
 	<li><a href = "https://myanimelist.net/anime/22043/Fairy_Tail_2014">Fairy Tail(2014)</a></li>
     <li><a href = "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series?q=fairy%20tail">Fairy Tail: Final Series</a></li>
