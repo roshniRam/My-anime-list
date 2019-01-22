@@ -25,6 +25,7 @@
 	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>	
 	<li><a href = "https://myanimelist.net/anime/11617/High_School_DxD">High School DXD</a></li>
 	<li><a href = "https://myanimelist.net/anime/28825/Himouto_Umaru-chan">Himouto! Umaru-chan</a></li>
+	<li><a href = "https://myanimelist.net/anime/33899/IDOLiSH7?q=idol">Idolish7</a></li>
 	<li><a href = "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama?q=kaichou">Kaichou wa Maid-sama!</a></li>
 	<li><a href = "https://myanimelist.net/anime/36754/Kakuriyo_no_Yadomeshi?q=kakuriyo">Kakuriyo no Yadomeshi</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby?q=kill%20me%20baby">Kill Me Baby</a></li>
