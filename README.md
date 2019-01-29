@@ -44,6 +44,7 @@
 	<li><a href = "https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Food Wars!: Shokugeki no Soma</a></li>
 	<li><a href = "https://myanimelist.net/anime/36470/Tada-kun_wa_Koi_wo_Shinai?q=tada">Tada-kun wa Koi wo Shinai</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
+	<li><a href = "https://myanimelist.net/anime/4224/Toradora?q=torad">Toradora</a></li>
 </ol>
 
 <br><hr>
