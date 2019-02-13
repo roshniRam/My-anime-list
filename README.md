@@ -52,6 +52,7 @@
 ## Movies list
 <ol>	
 	<li><a href = "https://myanimelist.net/anime/1689/Byousoku_5_Centimeter?q=5%20cen">5 Centimeters per second</a></li>
+	<li><a href = "https://myanimelist.net/anime/36896/Boku_no_Hero_Academia_the_Movie__Futari_no_Hero?">Boku no Hero Academia the Movie: Futari no Hero</a></i>
 	<li><a href = "https://myanimelist.net/anime/32281/Kimi_no_Na_wa?q=kimi%20">Kimi no na wa</a></li>
 	<li><a href = "https://myanimelist.net/anime/28851/Koe_no_Katachi?q=koe">Koe no Katachi</a></li>
 	<li><a href = "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi?q=spirite">Sen to Chihiro no Kamikakushi</a></li>
