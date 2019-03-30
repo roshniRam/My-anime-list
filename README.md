@@ -37,6 +37,7 @@
 	<li><a href = "https://myanimelist.net/anime/19815/No_Game_No_Life">No Game No Life</a></li>
 	<li><a href = "https://myanimelist.net/anime/21/One_Piece">One Piece</a></li>
 	<li><a href = "https://myanimelist.net/anime/32729/Orange?q=oran">Orange</a></li>
+	<li><a href = "https://myanimelist.net/anime/2594/Piano_no_Mori">Piano no mori</a></li>
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/30015/ReLIFE">ReLIFE</a></li>
 	<li><a href = "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso">Shigatsu wa Kimi no Uso</a></li>
