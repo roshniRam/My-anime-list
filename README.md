@@ -41,6 +41,7 @@
 	<li><a href = "https://myanimelist.net/anime/2594/Piano_no_Mori">Piano no mori</a></li>
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/30015/ReLIFE">ReLIFE</a></li>
+	<li><a href = "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru?q=run%20with%20the%20win">Run with the wind</a></li>
 	<li><a href = "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso">Shigatsu wa Kimi no Uso</a></li>
 	<li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin?q=attack%20">Shingeki no Kyojin</a></li>
 	<li><a href = "https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Food Wars!: Shokugeki no Soma</a></li>
