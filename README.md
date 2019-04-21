@@ -35,6 +35,7 @@
 	<li><a href = "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai">Nanatsu no Taizai</a></li>
 	<li><a href = "https://myanimelist.net/anime/18897/Nisekoi">Nisekoi</a></li>
 	<li><a href = "https://myanimelist.net/anime/19815/No_Game_No_Life">No Game No Life</a></li>
+	<li><a href = "https://myanimelist.net/anime/36407/Kenja_no_Mago?q=magis%20grandson">Magi's grandson</a></li>
 	<li><a href = "https://myanimelist.net/anime/21/One_Piece">One Piece</a></li>
 	<li><a href = "https://myanimelist.net/anime/32729/Orange?q=oran">Orange</a></li>
 	<li><a href = "https://myanimelist.net/anime/2594/Piano_no_Mori">Piano no mori</a></li>
