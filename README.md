@@ -21,6 +21,7 @@
     <li><a href = "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series?q=fairy%20tail">Fairy Tail: Final Series</a></li>
 	<li><a href = "https://myanimelist.net/anime/120/Fruits_Basket?q=the%20fruit">Fruits Basket</a></li>
 	<li><a href = "https://myanimelist.net/anime/24765/Gakkougurashi">Gakkou Gurashi!</a></li>
+	<li><a href = "https://myanimelist.net/anime/39533/Given?q=given">Given</a></li>
 	<li><a href = "https://myanimelist.net/anime/17895/Golden_Time">Golden Time</a></li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
 	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>	
@@ -29,6 +30,7 @@
 	<li><a href = "https://myanimelist.net/anime/33899/IDOLiSH7?q=idol">Idolish7</a></li>
 	<li><a href = "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama?q=kaichou">Kaichou wa Maid-sama!</a></li>
 	<li><a href = "https://myanimelist.net/anime/36754/Kakuriyo_no_Yadomeshi?q=kakuriyo">Kakuriyo no Yadomeshi</a></li>
+	<li><a href = "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba?q=kimetsu">Kimetsu no Yaiba</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby?q=kill%20me%20baby">Kill Me Baby</a></li>
 	<li><a href = "https://myanimelist.net/anime/34984/Koi_wa_Ameagari_no_You_ni?q=koi%20wa">Koi wa Ameagari no You ni</a></li>
 	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket?q=kuroko%20no%20">Kuroko no Basket</a></li>
