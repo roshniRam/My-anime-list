@@ -19,6 +19,7 @@
 	<li><a href = "https://myanimelist.net/anime/6702/Fairy_Tail">Fairy Tail</a></li>
 	<li><a href = "https://myanimelist.net/anime/22043/Fairy_Tail_2014">Fairy Tail(2014)</a></li>
     <li><a href = "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series?q=fairy%20tail">Fairy Tail: Final Series</a></li>
+	<li><a href = "https://myanimelist.net/anime/120/Fruits_Basket?q=the%20fruit">Fruits Basket</a></li>
 	<li><a href = "https://myanimelist.net/anime/24765/Gakkougurashi">Gakkou Gurashi!</a></li>
 	<li><a href = "https://myanimelist.net/anime/17895/Golden_Time">Golden Time</a></li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
@@ -30,6 +31,7 @@
 	<li><a href = "https://myanimelist.net/anime/36754/Kakuriyo_no_Yadomeshi?q=kakuriyo">Kakuriyo no Yadomeshi</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby?q=kill%20me%20baby">Kill Me Baby</a></li>
 	<li><a href = "https://myanimelist.net/anime/34984/Koi_wa_Ameagari_no_You_ni?q=koi%20wa">Koi wa Ameagari no You ni</a></li>
+	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket?q=kuroko%20no%20">Kuroko no Basket</a></li>
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
 	<li><a href = "https://myanimelist.net/anime/1735/Naruto__Shippuuden">Naruto Shippuden</a></li>
 	<li><a href = "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai">Nanatsu no Taizai</a></li>
